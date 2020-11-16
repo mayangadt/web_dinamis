@@ -10,4 +10,5 @@ Tugas 3 dan 4
 ![image](https://user-images.githubusercontent.com/73783733/97822926-fd720d80-1ce9-11eb-8e11-98188b0b9a9f.png)
 
 Tugas 5
-![image](https://user-images.githubusercontent.com/73783733/99206509-274d2900-27ee-11eb-9fe9-0f39f55ea65a.png)
+![image](https://user-images.githubusercontent.com/73783733/99206740-c4a85d00-27ee-11eb-96b7-7368c56b9641.png)
+
