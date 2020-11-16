@@ -8,3 +8,6 @@ Tugas 2
 Tugas 3 dan 4
 ![Screenshot (544)](https://user-images.githubusercontent.com/73783733/97823045-5b065a00-1cea-11eb-9464-e8b9e637c1ca.png)
 ![image](https://user-images.githubusercontent.com/73783733/97822926-fd720d80-1ce9-11eb-8e11-98188b0b9a9f.png)
+
+Tugas 5
+![image](https://user-images.githubusercontent.com/73783733/99206509-274d2900-27ee-11eb-9fe9-0f39f55ea65a.png)
