@@ -13,16 +13,24 @@ Tugas 5
 ![image](https://user-images.githubusercontent.com/73783733/99206740-c4a85d00-27ee-11eb-96b7-7368c56b9641.png)
 
 Tugas 6
+
 Fungsi dengan Parameter
+
 ![image](https://user-images.githubusercontent.com/73783733/100575681-31534980-330f-11eb-8396-91ce5f9ded11.png)
 
+
 Fungsi dengan Default Paramater
+
 ![image](https://user-images.githubusercontent.com/73783733/100575757-5e076100-330f-11eb-95a6-d74b05bf37d0.png)
 
+
 Fungsi Rekursif
+
 ![image](https://user-images.githubusercontent.com/73783733/100575788-6e1f4080-330f-11eb-9e47-c93e7a999835.png)
 
+
 Fungsi di dalam Fungsi
+
 ![image](https://user-images.githubusercontent.com/73783733/100575826-7c6d5c80-330f-11eb-8f86-0149924d390a.png)
 
 Fungsi dengan Return Value
